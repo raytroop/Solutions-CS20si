@@ -1,0 +1,8 @@
+
+*.pdf
+*.pyc
+checkpoints/*
+my_graph/*
+data/*
+processed/*
+*.mat
